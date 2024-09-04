@@ -143,30 +143,18 @@
     <h2>Projects:</h2>
     <ul>
         <li>
-            <h3><u>Restaurant Billing Management Software Using C Language</u></h3>
-            <ul>
-                <li>Restaurant Billing Software, a robust and user-friendly solution designed to streamline and enhance the billing process for your restaurant business. In the dynamic and fast-paced world of hospitality, efficiency and accuracy are paramount, and our software is tailored to meet these demands seamlessly</li>
-            </ul>
-        </li>
-        <li>
             <h3><u>Airline Reservation Management System Software Using C++</u></h3>
-            <ul>
-                <li>This system automates booking, cancellation, and viewing of reservations, ensuring accuracy and ease for both customers and airline staff</li>
-            </ul>
+           
         </li>
         <li>
             <h3><u>Credit Card Fraudulent transaction detection Software Using ML Python</u></h3>
-            <ul>
-                <li>It is built using Python programming language and uses Pandas and Scikit-learn libraries for data manipulation and machine learning tasks</li>
-            </ul>
+            
         </li>
     </ul>
 </section>
 <section>
     <h2>Hobbies</h2>
     <ol>
-       
-        <li><b>Blogging or Technical Writing:</b> Writing articles or tutorials about programming, technology, or your projects on platforms like Medium, Dev.to, or your own blog.</li>
         <li><b>Reading:</b> I have a passion for reading a wide range of books, from classic literature to contemporary non-fiction. This hobby has honed my analytical thinking, expanded my knowledge base, and enhanced my ability to communicate effectively.</li>
     </ol>
     <hr>
